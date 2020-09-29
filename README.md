@@ -1,2 +1,7 @@
 # CatImageDetector
-One neuron system for cat image detection
+One neuron system cat image detection
+
+* Created by Eldad Hadad & Gal Eshel
+
+
+
